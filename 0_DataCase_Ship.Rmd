@@ -1,0 +1,17 @@
+---
+title: "0-DataCase_Ship"
+output: html_document
+date: '2022-07-14'
+---
+
+```{r}
+# import dataset
+library(readr)
+ship1 <- read_csv("data/ship1.csv")
+ship2 <- read_csv("data/ship2.csv")
+```
+
+```{r}
+
+```
+
